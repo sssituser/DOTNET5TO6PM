@@ -1,0 +1,109 @@
+1. Introduction to .NET
+2. Installation of .NET 
+3. Visual Studio  2022 how to use
+	Solution Explorer : It is a tab in which our projects  will be added
+How to work with the Environment
+4. C# :  In order to develop software application and web application
+	 .net core  ,  REST API and Integrate with React / Angular / Vue 
+
+5. Input and Output methods
+
+	Console.Write()==========> Console is a class and Write and WriteLine method
+	Console.WriteLine()     Console class is present in side system namespace
+	Console.Read()
+	Console.ReadLine()
+	Console.ReadKey(); It is a input method which can make the compiler to wait until 			application get a character
+
+	Write and WriteLine Static methods
+
+	Static methods can be accessed using class name
+
+	Non static methods can be accessed using object
+
+	int.Parse(Console.ReadLine());
+	float.Parse(Console.ReadLine())
+==========================================================
+Operators :
+	Binary operators		Unary operators     Ternary operators
+	a+b				++a			a>b? stmt1 : stmt2
+	a-b				a++
+
+
+
+	Arithmetic Operators
+		+
+		-
+		*  --- mul
+		/  --- quo
+		% --- rem
+
+	Relational Operators
+
+	>	
+	<
+	>=
+	<=
+	==
+	!=
+	Logical Operator 
+
+	&&   --> Logical And  // If all the conditions are true result true or else false
+	||   --> Logical Or   // If all Boolean values are false result is false other wise
+				  true
+	!    --> Logical not
+
+	Ternary operator
+
+	? :
+
+			booleanExp ?  stmt1 : stm2
+
+
+	Assignment operators
+		=
+		+=
+		-=
+		*=
+		/=
+		%=
+	Increment and Decrement operators
+	++
+	--
+
+	Bitwise operators
+
+	&
+	|
+	<<
+	>>	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
