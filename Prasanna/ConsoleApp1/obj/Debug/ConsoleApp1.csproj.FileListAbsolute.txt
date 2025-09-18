@@ -1,0 +1,8 @@
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config
