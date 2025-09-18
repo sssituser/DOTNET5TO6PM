@@ -1,0 +1,220 @@
+				1.Itarative Statements
+					or
+				2.Loop Control Structures
+
+These loops can be used to execute block of statements no of times based on the condition.
+		1.While	: It is loop, It can be called as Entry Controlled structure.
+Since It will check condition before execution of statements.
+
+	syx:		While(booleanExpression)
+			{
+
+			 stmt(s);
+
+			}
+
+	case 1 : compiler checks Boolean expression  , if Boolean expression is false,
+		 compiler will not while block stmts.
+
+	case 2:Compiler checks BE, if the be true, compiler executes while block stmts,
+	till the be reaches to false.
+1.Write program to generate numbers from the given start and end values.
+Examples
+		start = 1	end = 10
+
+		1 2 3 4 5 6 7 8 9 10
+		2,4,6,8,10,12,14,16,18,20
+
+		given
+			start = 1;
+			end = 10;
+
+			while(start <=  end){
+				Console.WriteLine(start);
+				start++;
+			}
+
+2.Write a program to find the reverse of the given number.
+	num = 123		Reverse = 321
+
+	steps:
+		form the given number separate the digits num%10
+
+	%    ---> Remainder
+	/ ----->  quo
+				10)123(12
+		                   120
+				-------
+				     3
+	123%10===> 3
+	123/10 ===>12
+
+	12%10  ===> 2
+	12/10 ====> 1
+	1%10 ===> 1
+	1/10 ===>0
+
+	3.Write a program to check given number is Palindrome or not?
+
+
+	What is Palindrome ? Number and Its Reverse number if both are equal then number is said to
+	be palindrome.
+
+
+	Example: num = 456
+		 reverse = 654
+
+		456 != 654
+	
+
+	num = 456		ld = num%10 => ld = 6
+
+
+	654
+	num = num/10 ===>  num = 45 % 10  = 5
+	num = 45 /10 ==>   num = 4%10    ld = 4
+
+	
+4.Write a program to generate numbers from 1 to n ?
+
+5.Write a Program to find sum of   n numbers
+n = 5		sum = 1+2+3+4+5  sum = 15
+
+
+6.Write a Program to find the factorial of the given number
+num = 4			Factorial = 1*2*3*4 => Factorial = 24
+
+7.Write to program to find the factors of a given number
+
+num = 10    factors : 1,2,5,10
+num = 12    factors : 1,2,3,4,6,12
+
+steps :
+	1.I need generate the number from 1 to num
+	2.we find the remainder with number from 1,2,3...num = 10
+
+8.Write a program to check given number is prime or not ?
+
+num = 17  since 2 factors given number is prime number
+
+9.Write a program to check given number is Perfect or not
+num = 6       1,2,3       => 1+2+3 => factsum = 6
+
+1.Write a Program to check  given number is Armstrong or not ?
+num = 153	1cube+5cube+3cube  1+125+27 => 153 
+num = 1634	1pow4 +6pow4+3pow4+4pow4 = 1634
+
+2.Write a program to check given number is Strong or not ?
+
+num = 145   FactorialSum = 1!+4!+5!   => 1+24+120 => 145
+Given number is a S
+==============================================================================
+				do{
+
+				stmts;
+				}while(con);
+
+It is a controlled Structure, Since after executing do block at the end of the compiler checks
+the condition, hence It a controlled Structure.
+
+The difference between while and do-while in while if the condition is false compiler will not
+execute the stmts, Where as in do-while even if the condition is false compiler executes do block
+statements once.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+write Program to check Given number is prime
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		2.do-while
+		3.for--loop
+		4.foreah loop
+

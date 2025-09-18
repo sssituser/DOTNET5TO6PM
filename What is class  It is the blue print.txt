@@ -1,0 +1,53 @@
+What is class : It is the blue print of the object(conceptual). 2015 
+
+It is the combination of data types and methods.
+
+class className{
+	Data Types
+	Methods
+	
+}
+The data types and methods which are present in side the
+class are class members.
+These members are of two types
+	static
+	non static members
+The class members which are declared with static keyword can be
+called static members.
+
+Constructor : It is a special function which can be invoked when
+object is created. It can be written with keyword called constructor().
+In order to create object we use constructor.
+
+
+setters and getters
+Inheritance : Deriving a child class from a Parent class
+is called inheritance
+
+In order to inherit we use extend keyword
+
+class BasicCalcy{
+	sum(a,b){
+		
+}	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
