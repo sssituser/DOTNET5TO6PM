@@ -1,0 +1,15 @@
+D:\shannu\.NET\15-09-2025\obj\Debug\15-09-2025.csproj.AssemblyReference.cache
+D:\shannu\.NET\15-09-2025\obj\Debug\15-09-2025.csproj.CoreCompileInputs.cache
+D:\shannu\.NET\15-09-2025\bin\Debug\15-09-2025.exe.config
+D:\shannu\.NET\15-09-2025\bin\Debug\15-09-2025.exe
+D:\shannu\.NET\15-09-2025\bin\Debug\15-09-2025.pdb
+D:\shannu\.NET\15-09-2025\obj\Debug\15-09-2025.exe
+D:\shannu\.NET\15-09-2025\obj\Debug\15-09-2025.pdb
+D:\shannu\.NET\DOTNET5TO6PM\15-09-2025\bin\Debug\15-09-2025.exe.config
+D:\shannu\.NET\DOTNET5TO6PM\15-09-2025\bin\Debug\15-09-2025.exe
+D:\shannu\.NET\DOTNET5TO6PM\15-09-2025\bin\Debug\15-09-2025.pdb
+D:\shannu\.NET\DOTNET5TO6PM\15-09-2025\obj\Debug\15-09-2025.csproj.AssemblyReference.cache
+D:\shannu\.NET\DOTNET5TO6PM\15-09-2025\obj\Debug\15-09-2025.exe.config
+D:\shannu\.NET\DOTNET5TO6PM\15-09-2025\obj\Debug\15-09-2025.csproj.CoreCompileInputs.cache
+D:\shannu\.NET\DOTNET5TO6PM\15-09-2025\obj\Debug\15-09-2025.exe
+D:\shannu\.NET\DOTNET5TO6PM\15-09-2025\obj\Debug\15-09-2025.pdb

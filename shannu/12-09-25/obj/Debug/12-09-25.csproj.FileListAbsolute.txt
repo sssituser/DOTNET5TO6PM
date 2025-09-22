@@ -1,0 +1,8 @@
+D:\shannu\.NET\12-09-25\obj\Debug\12-09-25.csproj.AssemblyReference.cache
+D:\shannu\.NET\12-09-25\obj\Debug\12-09-25.csproj.CoreCompileInputs.cache
+D:\shannu\.NET\12-09-25\bin\Debug\12-09-25.exe.config
+D:\shannu\.NET\12-09-25\bin\Debug\12-09-25.exe
+D:\shannu\.NET\12-09-25\bin\Debug\12-09-25.pdb
+D:\shannu\.NET\12-09-25\obj\Debug\12-09-25.exe
+D:\shannu\.NET\12-09-25\obj\Debug\12-09-25.pdb
+D:\shannu\.NET\12-09-25\obj\Debug\12-09-25.exe.config
