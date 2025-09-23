@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9BC2DE-11C6-47DB-8BA1-F7076D13E096}|ConsoleApp3.csproj|d:\\shannu\\.net\\dotnet5to6pm\\dotnet5to6pm\\shannu\\consoleapp3\\array1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9BC2DE-11C6-47DB-8BA1-F7076D13E096}|ConsoleApp3.csproj|solutionrelative:array1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConsoleApp3||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9BC2DE-11C6-47DB-8BA1-F7076D13E096}|ConsoleApp3.csproj|d:\\shannu\\.net\\dotnet5to6pm\\dotnet5to6pm\\shannu\\consoleapp3\\program8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9BC2DE-11C6-47DB-8BA1-F7076D13E096}|ConsoleApp3.csproj|solutionrelative:program8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9BC2DE-11C6-47DB-8BA1-F7076D13E096}|ConsoleApp3.csproj|d:\\shannu\\.net\\dotnet5to6pm\\dotnet5to6pm\\shannu\\consoleapp3\\program7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9BC2DE-11C6-47DB-8BA1-F7076D13E096}|ConsoleApp3.csproj|solutionrelative:program7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9BC2DE-11C6-47DB-8BA1-F7076D13E096}|ConsoleApp3.csproj|d:\\shannu\\.net\\dotnet5to6pm\\dotnet5to6pm\\shannu\\consoleapp3\\program6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9BC2DE-11C6-47DB-8BA1-F7076D13E096}|ConsoleApp3.csproj|solutionrelative:program6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9BC2DE-11C6-47DB-8BA1-F7076D13E096}|ConsoleApp3.csproj|d:\\shannu\\.net\\dotnet5to6pm\\dotnet5to6pm\\shannu\\consoleapp3\\program5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9BC2DE-11C6-47DB-8BA1-F7076D13E096}|ConsoleApp3.csproj|solutionrelative:program5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9BC2DE-11C6-47DB-8BA1-F7076D13E096}|ConsoleApp3.csproj|d:\\shannu\\.net\\dotnet5to6pm\\dotnet5to6pm\\shannu\\consoleapp3\\program4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9BC2DE-11C6-47DB-8BA1-F7076D13E096}|ConsoleApp3.csproj|solutionrelative:program4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9BC2DE-11C6-47DB-8BA1-F7076D13E096}|ConsoleApp3.csproj|D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp3\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9BC2DE-11C6-47DB-8BA1-F7076D13E096}|ConsoleApp3.csproj|solutionrelative:program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9BC2DE-11C6-47DB-8BA1-F7076D13E096}|ConsoleApp3.csproj|D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9BC2DE-11C6-47DB-8BA1-F7076D13E096}|ConsoleApp3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9BC2DE-11C6-47DB-8BA1-F7076D13E096}|ConsoleApp3.csproj|D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp3\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9BC2DE-11C6-47DB-8BA1-F7076D13E096}|ConsoleApp3.csproj|solutionrelative:program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9BC2DE-11C6-47DB-8BA1-F7076D13E096}|ConsoleApp3.csproj|d:\\shannu\\.net\\dotnet5to6pm\\dotnet5to6pm\\shannu\\consoleapp3\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Array1.cs",
+              "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp3\\Array1.cs",
+              "RelativeDocumentMoniker": "Array1.cs",
+              "ToolTip": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp3\\Array1.cs",
+              "RelativeToolTip": "Array1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T21:51:31.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "program8.cs",
+              "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp3\\program8.cs",
+              "RelativeDocumentMoniker": "program8.cs",
+              "ToolTip": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp3\\program8.cs",
+              "RelativeToolTip": "program8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T21:45:41.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program7.cs",
+              "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp3\\Program7.cs",
+              "RelativeDocumentMoniker": "Program7.cs",
+              "ToolTip": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp3\\Program7.cs",
+              "RelativeToolTip": "Program7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T21:36:01.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program6.cs",
+              "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp3\\Program6.cs",
+              "RelativeDocumentMoniker": "Program6.cs",
+              "ToolTip": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp3\\Program6.cs",
+              "RelativeToolTip": "Program6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T21:27:31.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PROGRAM5.cs",
+              "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp3\\PROGRAM5.cs",
+              "RelativeDocumentMoniker": "PROGRAM5.cs",
+              "ToolTip": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp3\\PROGRAM5.cs",
+              "RelativeToolTip": "PROGRAM5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T21:18:47.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "program4.cs",
+              "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp3\\program4.cs",
+              "RelativeDocumentMoniker": "program4.cs",
+              "ToolTip": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp3\\program4.cs",
+              "RelativeToolTip": "program4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T22:52:37.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program3.cs",
+              "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp3\\Program3.cs",
+              "RelativeDocumentMoniker": "Program3.cs",
+              "ToolTip": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp3\\Program3.cs",
+              "RelativeToolTip": "Program3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T22:29:21.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleApp3",
+              "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp3\\ConsoleApp3.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp3.csproj",
+              "ToolTip": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp3\\ConsoleApp3.csproj",
+              "RelativeToolTip": "ConsoleApp3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-22T22:27:19.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program2.cs",
+              "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp3\\Program2.cs",
+              "RelativeDocumentMoniker": "Program2.cs",
+              "ToolTip": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp3\\Program2.cs",
+              "RelativeToolTip": "Program2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T22:26:56.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T22:21:16.505Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

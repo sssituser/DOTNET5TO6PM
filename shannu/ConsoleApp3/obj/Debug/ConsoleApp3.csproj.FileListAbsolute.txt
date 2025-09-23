@@ -1,0 +1,8 @@
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConsoleApp3\obj\Debug\ConsoleApp3.exe.config
