@@ -1,14 +1,28 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\shannu\\.NET\\ConsoleApp1\\",
+  "WorkspaceRootPath": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62482323-F511-4363-820F-D3FC7B1306C8}|ConsoleApp1.csproj|d:\\shannu\\.net\\consoleapp1\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62482323-F511-4363-820F-D3FC7B1306C8}|ConsoleApp1.csproj|solutionrelative:filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62482323-F511-4363-820F-D3FC7B1306C8}|ConsoleApp1.csproj|d:\\shannu\\.net\\dotnet5to6pm\\dotnet5to6pm\\shannu\\consoleapp1\\doubleexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62482323-F511-4363-820F-D3FC7B1306C8}|ConsoleApp1.csproj|solutionrelative:doubleexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62482323-F511-4363-820F-D3FC7B1306C8}|ConsoleApp1.csproj|D:\\shannu\\.NET\\ConsoleApp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62482323-F511-4363-820F-D3FC7B1306C8}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConsoleApp1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp1\\DoubleEx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DoubleEx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62482323-F511-4363-820F-D3FC7B1306C8}|ConsoleApp1.csproj|D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp1\\FileName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62482323-F511-4363-820F-D3FC7B1306C8}|ConsoleApp1.csproj|solutionrelative:FileName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62482323-F511-4363-820F-D3FC7B1306C8}|ConsoleApp1.csproj|D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62482323-F511-4363-820F-D3FC7B1306C8}|ConsoleApp1.csproj|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62482323-F511-4363-820F-D3FC7B1306C8}|ConsoleApp1.csproj|d:\\shannu\\.net\\dotnet5to6pm\\dotnet5to6pm\\shannu\\consoleapp1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,28 +32,65 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FileName.cs",
-              "DocumentMoniker": "D:\\shannu\\.NET\\ConsoleApp1\\FileName.cs",
-              "RelativeDocumentMoniker": "FileName.cs",
-              "ToolTip": "D:\\shannu\\.NET\\ConsoleApp1\\FileName.cs",
-              "RelativeToolTip": "FileName.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T19:43:29.371Z",
+              "DocumentIndex": 1,
+              "Title": "ConsoleApp1",
+              "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1.csproj",
+              "ToolTip": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-24T08:48:46.832Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "DoubleExample.cs",
+              "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp1\\DoubleExample.cs",
+              "RelativeDocumentMoniker": "DoubleExample.cs",
+              "ToolTip": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp1\\DoubleExample.cs",
+              "RelativeToolTip": "DoubleExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T08:48:15.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoubleEx.cs",
+              "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp1\\DoubleEx.cs",
+              "RelativeDocumentMoniker": "DoubleEx.cs",
+              "ToolTip": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp1\\DoubleEx.cs",
+              "RelativeToolTip": "DoubleEx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T08:45:43.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileName.cs",
+              "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp1\\FileName.cs",
+              "RelativeDocumentMoniker": "FileName.cs",
+              "ToolTip": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp1\\FileName.cs",
+              "RelativeToolTip": "FileName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T19:43:29.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\shannu\\.NET\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\shannu\\.NET\\ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
