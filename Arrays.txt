@@ -1,0 +1,33 @@
+Write a program to read 5 integer elements and show display the elements
+
+1.Write program to read 5 names of the students,
+and read three subjects marks of student and display the 
+name marks and total marks.
+
+kiran  45	55	66
+Raj    38       60      77
+2.Sorting the elements in descending order
+
+
+3.Write a read elements for an array of row size and col size2
+
+Display them in form matrix.
+
+Rectangular array : An array with rows and cols
+is called rectangular array.
+
+Declaration of Rectangular array
+ DataType[ , ] varname = new DataType[rowsize,colsize]
+Example:
+
+	int[ , ] a = new int[2,3];
+
+	12	34	45
+	56	89	90
+	
+
+	
+
+
+
+
