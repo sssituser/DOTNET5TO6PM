@@ -1,0 +1,83 @@
+			
+
+
+					5 mins to start
+
+
+
+Write a program to read 2 arrays and find the sum of two array of size 2
+
+Example :
+
+	1	2    5	  6             6	8
+
+	3	4    7    8		10	12
+
+
+
+Multiplication of Matrices
+
+
+			1	2	5	6
+
+			3	4	7	8
+
+
+
+			1*5+2*7		1*6+2*8
+			3*5+4*7		3*6+4*8
+
+			19		22
+
+			43		50
+
+Write a program to read elements for rectangular array of size 3
+display the diagonal elements.
+
+
+	00	01      02
+	1	2	3
+	
+	10	11	12
+	4	5	6
+
+	2 0	2 1	22
+	7	8	9
+
+
+
+	00	
+	1	2	3	4
+	
+	5	6	7	8
+	
+	9	23	34	45
+	
+	12	45	67	66
+
+
+Write program to read elements for the array of size 2x3
+and display them find the transpose of the matrix.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
