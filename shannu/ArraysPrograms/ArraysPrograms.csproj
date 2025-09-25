@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ArraysPrograms.Program4</StartupObject>
+    <StartupObject>ArraysPrograms.Program7</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -50,6 +50,9 @@
     <Compile Include="Program2.cs" />
     <Compile Include="Program3.cs" />
     <Compile Include="Program4.cs" />
+    <Compile Include="Program5.cs" />
+    <Compile Include="Program6.cs" />
+    <Compile Include="Program7.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
