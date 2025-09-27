@@ -1,0 +1,45 @@
+String :-Anything written in
+double quotes can be called strig.
+
+String is a immutable object.
+
+String is a class present in System namespace.
+
+Namespace : set of classes and Interfaces,Enumerations.
+
+In order work with string we need use predefined methods
+of a string class.
+
+Predefined methods of two types static methods
+and not static methods.
+
+Static methods can be called using class name
+non static methods can be called using object
+
+Write a program to a read string and zfind the encryption of
+the given string.
+
+Example : "abc"  => "zyx"
+	  "arun" => "zifm"
+
+===============================
+	ab
+	zy
+
+Write a program to find the namescore of the given string.
+
+Example : abc => 1+2+3 => 6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
