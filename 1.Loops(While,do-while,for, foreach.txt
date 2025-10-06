@@ -1,0 +1,97 @@
+1.Loops(While,do-while,for, foreach loop)
+2.Arrays
+Single 
+Rectangular
+		Jagged Array
+
+Simple if
+if-else 
+Nested if
+	else - if ladder
+switch
+goto
+=========================================================
+	
+1.An array with only one dimension is called single dimensional array.
+
+2.An array with rows and cols can be called Rectangular array or multidimensional array.
+
+3.Jagged Array : Array of arrays is called as Jagged Array. In jagged array rows are fixed but column can vary.
+
+
+
+		int a;  => Only one Integer Value.
+
+
+		int[ ] a = new int[ 3 ];
+
+		a[0]=>{ 45,67,89 }
+
+		a[1]=>{56,7,8,9,0}
+
+		a[2]=>{56,89}
+
+
+			DataType var [][] = new DataType[rowsize][ ]; 
+
+
+			Declaration of the Jagged Array.
+
+
+				int[][] a = new int[3][];
+
+				a[0]=  new int[]{45,67,89};
+				a[1] = new int[]{4,5,6,7,}
+				a[2] = new int[]{56,78}
+
+		String : Anything written in double quotes can be called as String.
+		""=> empty.
+		String  reference type datatype
+
+		String is a class
+
+
+		class : It is the data types and methods.
+
+		In order to work with the strings we need to use predefined methods of a string class.
+
+		
+
+
+
+
+
+
+
+
+
+https://teams.live.com/meet/9356479406846?p=i4vN3SjKl6OGsqkkRD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
