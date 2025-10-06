@@ -1,0 +1,8 @@
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\StringPrograms\bin\Debug\StringPrograms.exe.config
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\StringPrograms\bin\Debug\StringPrograms.exe
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\StringPrograms\bin\Debug\StringPrograms.pdb
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\StringPrograms\obj\Debug\StringPrograms.csproj.AssemblyReference.cache
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\StringPrograms\obj\Debug\StringPrograms.csproj.CoreCompileInputs.cache
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\StringPrograms\obj\Debug\StringPrograms.exe
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\StringPrograms\obj\Debug\StringPrograms.pdb
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\StringPrograms\obj\Debug\StringPrograms.exe.config
