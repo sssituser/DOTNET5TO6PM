@@ -1,0 +1,121 @@
+				Method
+
+It is a self contained block of stmts which can be used to perform particular
+task is called method.
+
+or
+
+It is set of instructions or stmts which can be used to perform a task.
+
+Methods are of two types :
+Predefined Methods :
+	The methods which are present int the lib.
+		Console.Write()
+		Console.WriteLine()
+		Console.Read();
+		Console.ReadLine()
+		ElementAt()
+		IndexOf()
+User defined methods : The methods which are defined by the developer can be called user defined methods.
+
+In order to defin methods we should follow the given below syntax.
+
+Access modifiers return type  MethodName(Parameters){
+
+		stmts
+		return ;
+}
+
+Accessmodifiers :  public static/public
+		   private static/private
+		   protected static/protected
+		   internal static/internal
+
+Return type : final result of a method, and are void,int,float,double,char,string
+...class,Array
+
+Method name : It should be meaningful name and It can be written in pascal case
+naming convention.
+
+Parameter : Parameters or arguments  of the methods are int,float,double,array,
+class,void. Parameters of two types Actual parameters and Formal parameters.
+
+Actual Parameters : The parameters which are given in method calling.
+
+Formal Parameters : The parameters which are give in the method definition.
+
+Advantages of the methods: 
+			1.Define once and Reuse number of times(Reusability)
+			2.Reduces code complexity.
+			3.Application can be tested easily.
+
+How to define the methods:
+	public static int Square(int num){
+	  return num*num;
+	}
+	public static int Sum(int num1,int num2){
+
+	return num1+num2;
+	}
+
+	public static int Average(int num1,int num2,int num3){
+
+		return (num1+num2+num3)/3;
+	}
+	
+
+
+Write Program to generate list of Palidrome numbers for the given range.
+start = 10       end = 50
+11,22,33,44.
+
+
+Write a program to check given number is Adam or not ?
+
+
+num = 12  numsq = 144
+num = 21  revnumsq = 441 rev = 144
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
