@@ -1,0 +1,90 @@
+1.Write program to find the lucky for the given date of birth
+
+input : "19-Oct-2024"
+output: Your Lucky Number is 1
+
+	19+10+2024
+	=>29+2024
+	=>2053
+	=>2+0+5+3
+	=>10
+	=>1+0
+	=>1  Mont OCTber/Mar/April/JUNE/
+
+Step:
+	date = 19
+	month = oct => ConverMonthTextToNumber =>10
+	year  = 2024
+	sum = date+month+year
+	sum = 2053
+	     while(sum>9){
+		sum = DigitSum(sum);
+		}
+	return sum
+		
+
+	public static int GetLuckyNumber(string dob)
+
+
+	Accessmodifers :
+			public static /public
+			private static/private
+			protected static/protected
+			internal static/ internal
+
+
+
+Write a program to generate the max number from the given array
+
+	int[] array = {123,100,201,412,514,719}
+
+	
+Example :
+		
+		3,1,2,4,5,9
+		maxnum =954321
+
+Steps :
+	Given array = {123,100,201,412,514,719}
+			getMaxDigit(num)
+	MaxDigitArray={3,1,2,4,5,9}
+	SortArrayDesc ={9,5,4,3,2,1}
+	ArrayToNum = 954321		
+===================================
+	public static int  GetMaxNum(int[] array){
+
+	}
+
+================================
+1.Write a program to generate the List of Strong Numbers for the given Range.
+2.Write a program to generate List of Palindrome nums,List of Armstrong numbers,
+Adamnumber,PerfectNumer.
+
+start = 1  end = 10
+
+
+Palindromes : 1,2,3,4,5,6,7,8,9.
+ArmstrongNumber :1,2,3,4,5,6,7,8,9.
+AdamNumbers:1,2,3,4,5,6,7,8,9.
+PerfectNumbers : 6.
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+			
+
