@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DB6D0D4F-4A1A-43DB-AAFD-E34697FDCBFC}</ProjectGuid>
+    <ProjectGuid>{9C57CE26-DDD4-48E5-8C58-13A79ED59523}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ArraysPrograms</RootNamespace>
-    <AssemblyName>ArraysPrograms</AssemblyName>
+    <RootNamespace>StringPrograms</RootNamespace>
+    <AssemblyName>StringPrograms</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ArraysPrograms.Program7</StartupObject>
+    <StartupObject>StringPrograms.SplitAndJoin</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,14 +46,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CalenderNum.cs" />
+    <Compile Include="CharFrequency.cs" />
+    <Compile Include="ChatGPTQuestion1.cs" />
+    <Compile Include="ContainsSubstring.cs" />
+    <Compile Include="CountVowelsAndConsonants.cs" />
+    <Compile Include="Decryption.cs" />
+    <Compile Include="FirstLetterCapital.cs" />
+    <Compile Include="Palindrome.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="Program2.cs" />
-    <Compile Include="Program3.cs" />
-    <Compile Include="Program4.cs" />
-    <Compile Include="Program5.cs" />
-    <Compile Include="Program6.cs" />
-    <Compile Include="Program7.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RemoveSpaces.cs" />
+    <Compile Include="ReplaceChar.cs" />
+    <Compile Include="ReverseOfString.cs" />
+    <Compile Include="SplitAndJoin.cs" />
+    <Compile Include="SumOfAlphabets.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
