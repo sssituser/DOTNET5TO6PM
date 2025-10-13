@@ -1,0 +1,12 @@
+
+private : Private members of a class can't be accessed out side of the class,
+	  they can't be inherited.
+protected : Protected members of class can't be accessed out side of the class.
+	    They can be Inherited.
+public    : public members of class can be accessed outside of the and out side of the
+	    namespace.
+	    They can be Inheritance.
+internal : Internal members of a class can be accessed outside class but not side of the
+	   namespace.
+	   They can be Inherited.
+

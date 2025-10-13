@@ -67,6 +67,7 @@ Palindromes : 1,2,3,4,5,6,7,8,9.
 ArmstrongNumber :1,2,3,4,5,6,7,8,9.
 AdamNumbers:1,2,3,4,5,6,7,8,9.
 PerfectNumbers : 6.
+Primenumber
 
 
 
