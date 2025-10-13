@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MehodsExample
+namespace Assignments
 {
-    internal class Class2
+    internal class HelloWorld
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("hello world");
         }
     }
 }
