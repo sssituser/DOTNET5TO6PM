@@ -1,0 +1,8 @@
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConstructorExamples\bin\Debug\ConstructorExamples.exe.config
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConstructorExamples\bin\Debug\ConstructorExamples.exe
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConstructorExamples\bin\Debug\ConstructorExamples.pdb
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConstructorExamples\obj\Debug\ConstructorExamples.csproj.AssemblyReference.cache
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConstructorExamples\obj\Debug\ConstructorExamples.csproj.CoreCompileInputs.cache
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConstructorExamples\obj\Debug\ConstructorExamples.exe
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConstructorExamples\obj\Debug\ConstructorExamples.pdb
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConstructorExamples\obj\Debug\ConstructorExamples.exe.config
