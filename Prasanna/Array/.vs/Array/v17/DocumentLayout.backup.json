@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEBF388-8000-480C-B272-FD5D84D14967}|Array.csproj|c:\\users\\korra\\onedrive\\desktop\\new folder\\dotnet5to6pm\\prasanna\\array\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEBF388-8000-480C-B272-FD5D84D14967}|Array.csproj|solutionrelative:class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Array||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEBF388-8000-480C-B272-FD5D84D14967}|Array.csproj|C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\Array\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEBF388-8000-480C-B272-FD5D84D14967}|Array.csproj|solutionrelative:class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEBF388-8000-480C-B272-FD5D84D14967}|Array.csproj|C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\Array\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEBF388-8000-480C-B272-FD5D84D14967}|Array.csproj|solutionrelative:class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEBF388-8000-480C-B272-FD5D84D14967}|Array.csproj|C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\Array\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEBF388-8000-480C-B272-FD5D84D14967}|Array.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEBF388-8000-480C-B272-FD5D84D14967}|Array.csproj|C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\Array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEBF388-8000-480C-B272-FD5D84D14967}|Array.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class4.cs",
+              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\Array\\Class4.cs",
+              "RelativeDocumentMoniker": "Class4.cs",
+              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\Array\\Class4.cs",
+              "RelativeToolTip": "Class4.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:02:48.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Array",
+              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\Array\\Array.csproj",
+              "RelativeDocumentMoniker": "Array.csproj",
+              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\Array\\Array.csproj",
+              "RelativeToolTip": "Array.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-25T09:49:12.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\Array\\Class3.cs",
+              "RelativeDocumentMoniker": "Class3.cs",
+              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\Array\\Class3.cs",
+              "RelativeToolTip": "Class3.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T10:07:08.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\Array\\Class2.cs",
+              "RelativeDocumentMoniker": "Class2.cs",
+              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\Array\\Class2.cs",
+              "RelativeToolTip": "Class2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T09:56:43.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\Array\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\Array\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T09:54:48.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\Array\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\Array\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T09:07:37.242Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

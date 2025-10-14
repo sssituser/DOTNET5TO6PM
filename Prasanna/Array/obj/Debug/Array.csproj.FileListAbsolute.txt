@@ -1,0 +1,8 @@
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\Array\bin\Debug\Array.exe.config
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\Array\bin\Debug\Array.exe
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\Array\bin\Debug\Array.pdb
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\Array\obj\Debug\Array.exe
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\Array\obj\Debug\Array.pdb
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\Array\obj\Debug\Array.exe.config

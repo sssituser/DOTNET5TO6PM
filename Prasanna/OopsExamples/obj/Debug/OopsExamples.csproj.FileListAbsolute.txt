@@ -1,0 +1,8 @@
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\OopsExamples\bin\Debug\OopsExamples.exe.config
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\OopsExamples\bin\Debug\OopsExamples.exe
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\OopsExamples\bin\Debug\OopsExamples.pdb
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\OopsExamples\obj\Debug\OopsExamples.csproj.AssemblyReference.cache
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\OopsExamples\obj\Debug\OopsExamples.csproj.CoreCompileInputs.cache
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\OopsExamples\obj\Debug\OopsExamples.exe
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\OopsExamples\obj\Debug\OopsExamples.pdb
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\OopsExamples\obj\Debug\OopsExamples.exe.config

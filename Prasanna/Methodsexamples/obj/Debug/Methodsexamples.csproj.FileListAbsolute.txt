@@ -1,0 +1,8 @@
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\Methodsexamples\bin\Debug\Methodsexamples.exe.config
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\Methodsexamples\bin\Debug\Methodsexamples.exe
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\Methodsexamples\bin\Debug\Methodsexamples.pdb
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\Methodsexamples\obj\Debug\Methodsexamples.csproj.AssemblyReference.cache
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\Methodsexamples\obj\Debug\Methodsexamples.csproj.CoreCompileInputs.cache
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\Methodsexamples\obj\Debug\Methodsexamples.exe
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\Methodsexamples\obj\Debug\Methodsexamples.pdb
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\Methodsexamples\obj\Debug\Methodsexamples.exe.config
