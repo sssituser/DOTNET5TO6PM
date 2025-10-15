@@ -3,42 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\OopsExamples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E1916B4-37D8-4322-8F57-79898F3ECBF3}|OopsExamples.csproj|c:\\users\\korra\\onedrive\\desktop\\new folder\\dotnet5to6pm\\prasanna\\oopsexamples\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E1916B4-37D8-4322-8F57-79898F3ECBF3}|OopsExamples.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E39C06D5-C83C-476E-B064-6483EC87AE90}|..\\ConstructorWxamples\\ConstructorExamples.csproj|c:\\users\\korra\\onedrive\\desktop\\new folder\\dotnet5to6pm\\prasanna\\constructorwxamples\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E1916B4-37D8-4322-8F57-79898F3ECBF3}|OopsExamples.csproj|c:\\users\\korra\\onedrive\\desktop\\new folder\\dotnet5to6pm\\prasanna\\oopsexamples\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E1916B4-37D8-4322-8F57-79898F3ECBF3}|OopsExamples.csproj|solutionrelative:class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E39C06D5-C83C-476E-B064-6483EC87AE90}|..\\ConstructorWxamples\\ConstructorExamples.csproj|c:\\users\\korra\\onedrive\\desktop\\new folder\\dotnet5to6pm\\prasanna\\constructorwxamples\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|OopsExamples||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConstructorExamples||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E1916B4-37D8-4322-8F57-79898F3ECBF3}|OopsExamples.csproj|c:\\users\\korra\\onedrive\\desktop\\new folder\\dotnet5to6pm\\prasanna\\oopsexamples\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E1916B4-37D8-4322-8F57-79898F3ECBF3}|OopsExamples.csproj|solutionrelative:class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E1916B4-37D8-4322-8F57-79898F3ECBF3}|OopsExamples.csproj|c:\\users\\korra\\onedrive\\desktop\\new folder\\dotnet5to6pm\\prasanna\\oopsexamples\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E1916B4-37D8-4322-8F57-79898F3ECBF3}|OopsExamples.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E1916B4-37D8-4322-8F57-79898F3ECBF3}|OopsExamples.csproj|c:\\users\\korra\\onedrive\\desktop\\new folder\\dotnet5to6pm\\prasanna\\oopsexamples\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E1916B4-37D8-4322-8F57-79898F3ECBF3}|OopsExamples.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E1916B4-37D8-4322-8F57-79898F3ECBF3}|OopsExamples.csproj|c:\\users\\korra\\onedrive\\desktop\\new folder\\dotnet5to6pm\\prasanna\\oopsexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E1916B4-37D8-4322-8F57-79898F3ECBF3}|OopsExamples.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E1916B4-37D8-4322-8F57-79898F3ECBF3}|OopsExamples.csproj|c:\\users\\korra\\onedrive\\desktop\\new folder\\dotnet5to6pm\\prasanna\\oopsexamples\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E1916B4-37D8-4322-8F57-79898F3ECBF3}|OopsExamples.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E1916B4-37D8-4322-8F57-79898F3ECBF3}|OopsExamples.csproj|c:\\users\\korra\\onedrive\\desktop\\new folder\\dotnet5to6pm\\prasanna\\oopsexamples\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E1916B4-37D8-4322-8F57-79898F3ECBF3}|OopsExamples.csproj|solutionrelative:class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E1916B4-37D8-4322-8F57-79898F3ECBF3}|OopsExamples.csproj|c:\\users\\korra\\onedrive\\desktop\\new folder\\dotnet5to6pm\\prasanna\\oopsexamples\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{E39C06D5-C83C-476E-B064-6483EC87AE90}|..\\ConstructorWxamples\\ConstructorExamples.csproj|c:\\users\\korra\\onedrive\\desktop\\new folder\\dotnet5to6pm\\prasanna\\constructorwxamples\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,118 +26,40 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class4.cs",
-              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\OopsExamples\\Class4.cs",
-              "RelativeDocumentMoniker": "Class4.cs",
-              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\OopsExamples\\Class4.cs",
-              "RelativeToolTip": "Class4.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T06:20:41.183Z",
+              "DocumentIndex": 2,
+              "Title": "ConstructorExamples",
+              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\ConstructorWxamples\\ConstructorExamples.csproj",
+              "RelativeDocumentMoniker": "..\\ConstructorWxamples\\ConstructorExamples.csproj",
+              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\ConstructorWxamples\\ConstructorExamples.csproj",
+              "RelativeToolTip": "..\\ConstructorWxamples\\ConstructorExamples.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-14T13:40:29.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\OopsExamples\\Employee.cs",
-              "RelativeDocumentMoniker": "Employee.cs",
-              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\OopsExamples\\Employee.cs",
-              "RelativeToolTip": "Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T06:14:36.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Class3.cs",
-              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\OopsExamples\\Class3.cs",
-              "RelativeDocumentMoniker": "Class3.cs",
-              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\OopsExamples\\Class3.cs",
-              "RelativeToolTip": "Class3.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T06:07:53.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\OopsExamples\\Student.cs",
-              "RelativeDocumentMoniker": "Student.cs",
-              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\OopsExamples\\Student.cs",
-              "RelativeToolTip": "Student.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T05:58:40.807Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OopsExamples",
-              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\OopsExamples\\OopsExamples.csproj",
-              "RelativeDocumentMoniker": "OopsExamples.csproj",
-              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\OopsExamples\\OopsExamples.csproj",
-              "RelativeToolTip": "OopsExamples.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-14T05:55:31.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Class2.cs",
-              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\OopsExamples\\Class2.cs",
-              "RelativeDocumentMoniker": "Class2.cs",
-              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\OopsExamples\\Class2.cs",
-              "RelativeToolTip": "Class2.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T05:51:27.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\OopsExamples\\Product.cs",
-              "RelativeDocumentMoniker": "Product.cs",
-              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\OopsExamples\\Product.cs",
-              "RelativeToolTip": "Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T05:38:35.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\OopsExamples\\Class1.cs",
-              "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\OopsExamples\\Class1.cs",
-              "RelativeToolTip": "Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\ConstructorWxamples\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ConstructorWxamples\\Class1.cs",
+              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\ConstructorWxamples\\Class1.cs",
+              "RelativeToolTip": "..\\ConstructorWxamples\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T05:33:52.473Z",
+              "WhenOpened": "2025-10-14T13:38:04.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\OopsExamples\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\OopsExamples\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\ConstructorWxamples\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\ConstructorWxamples\\Employee.cs",
+              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\ConstructorWxamples\\Employee.cs",
+              "RelativeToolTip": "..\\ConstructorWxamples\\Employee.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T10:53:20.269Z",
+              "WhenOpened": "2025-10-14T13:25:52.1Z",
               "EditorCaption": ""
             },
             {

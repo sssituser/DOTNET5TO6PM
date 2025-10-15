@@ -1,0 +1,8 @@
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\ConstructorWxamples\bin\Debug\ConstructorWxamples.exe.config
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\ConstructorWxamples\bin\Debug\ConstructorWxamples.exe
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\ConstructorWxamples\bin\Debug\ConstructorWxamples.pdb
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\ConstructorWxamples\obj\Debug\ConstructorExamples.csproj.AssemblyReference.cache
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\ConstructorWxamples\obj\Debug\ConstructorExamples.csproj.CoreCompileInputs.cache
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\ConstructorWxamples\obj\Debug\ConstructorWxamples.exe
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\ConstructorWxamples\obj\Debug\ConstructorWxamples.pdb
+C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\ConstructorWxamples\obj\Debug\ConstructorWxamples.exe.config
