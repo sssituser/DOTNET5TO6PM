@@ -1,0 +1,11 @@
+Constructor : It is special method,
+Its name and class name both are same.
+It will not have return type.
+constructor can be invoked when the object created.
+
+Constructor are of different types
+1.Constructor with out parameter(Default)
+2.Constructor with Parameters(Parameterised)
+3.copy constructor
+4.static constructor
+5.
