@@ -1,0 +1,6 @@
+useEffect : This hook can be used provide effect to the functional component.
+This effect can be done class component by using componentDidMount() method.
+
+
+syntax:
+		useEffect()
