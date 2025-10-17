@@ -6,3 +6,11 @@ C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\HomeWork\obj\De
 C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\HomeWork\obj\Debug\HomeWork.exe
 C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\HomeWork\obj\Debug\HomeWork.pdb
 C:\Users\korra\OneDrive\Desktop\New folder\DOTNET5TO6PM\Prasanna\HomeWork\obj\Debug\HomeWork.exe.config
+C:\Users\korra\OneDrive\Desktop\Dot Net\DOTNET5TO6PM\Prasanna\HomeWork\bin\Debug\HomeWork.exe.config
+C:\Users\korra\OneDrive\Desktop\Dot Net\DOTNET5TO6PM\Prasanna\HomeWork\bin\Debug\HomeWork.exe
+C:\Users\korra\OneDrive\Desktop\Dot Net\DOTNET5TO6PM\Prasanna\HomeWork\bin\Debug\HomeWork.pdb
+C:\Users\korra\OneDrive\Desktop\Dot Net\DOTNET5TO6PM\Prasanna\HomeWork\obj\Debug\HomeWork.csproj.AssemblyReference.cache
+C:\Users\korra\OneDrive\Desktop\Dot Net\DOTNET5TO6PM\Prasanna\HomeWork\obj\Debug\HomeWork.exe.config
+C:\Users\korra\OneDrive\Desktop\Dot Net\DOTNET5TO6PM\Prasanna\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\korra\OneDrive\Desktop\Dot Net\DOTNET5TO6PM\Prasanna\HomeWork\obj\Debug\HomeWork.exe
+C:\Users\korra\OneDrive\Desktop\Dot Net\DOTNET5TO6PM\Prasanna\HomeWork\obj\Debug\HomeWork.pdb

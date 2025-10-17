@@ -1,52 +1,60 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\HomeWork\\",
+  "WorkspaceRootPath": "C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|c:\\users\\korra\\onedrive\\desktop\\new folder\\dotnet5to6pm\\prasanna\\homework\\class5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|solutionrelative:class5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|c:\\users\\korra\\onedrive\\desktop\\dot net\\dotnet5to6pm\\prasanna\\homework\\class6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|solutionrelative:class6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|HomeWork||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|c:\\users\\korra\\onedrive\\desktop\\new folder\\dotnet5to6pm\\prasanna\\homework\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|c:\\users\\korra\\onedrive\\desktop\\dot net\\dotnet5to6pm\\prasanna\\homework\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|solutionrelative:teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|c:\\users\\korra\\onedrive\\desktop\\dot net\\dotnet5to6pm\\prasanna\\homework\\class5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|solutionrelative:class5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|solutionrelative:patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|c:\\users\\korra\\onedrive\\desktop\\new folder\\dotnet5to6pm\\prasanna\\homework\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|solutionrelative:company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|c:\\users\\korra\\onedrive\\desktop\\new folder\\dotnet5to6pm\\prasanna\\homework\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|solutionrelative:class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|c:\\users\\korra\\onedrive\\desktop\\new folder\\dotnet5to6pm\\prasanna\\homework\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|solutionrelative:company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|solutionrelative:class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|c:\\users\\korra\\onedrive\\desktop\\new folder\\dotnet5to6pm\\prasanna\\homework\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|solutionrelative:bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|c:\\users\\korra\\onedrive\\desktop\\new folder\\dotnet5to6pm\\prasanna\\homework\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|solutionrelative:class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|c:\\users\\korra\\onedrive\\desktop\\new folder\\dotnet5to6pm\\prasanna\\homework\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|c:\\users\\korra\\onedrive\\desktop\\new folder\\dotnet5to6pm\\prasanna\\homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|c:\\users\\korra\\onedrive\\desktop\\new folder\\dotnet5to6pm\\prasanna\\homework\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|c:\\users\\korra\\onedrive\\desktop\\new folder\\dotnet5to6pm\\prasanna\\homework\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|solutionrelative:class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFCC113-81AC-46C7-BC19-A95B89F1CFFA}|HomeWork.csproj|c:\\users\\korra\\onedrive\\desktop\\dot net\\dotnet5to6pm\\prasanna\\homework\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -61,10 +69,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Class6.cs",
+              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Class6.cs",
+              "RelativeDocumentMoniker": "Class6.cs",
+              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Class6.cs",
+              "RelativeToolTip": "Class6.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T03:35:09.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Teacher.cs",
+              "RelativeDocumentMoniker": "Teacher.cs",
+              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Teacher.cs",
+              "RelativeToolTip": "Teacher.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwCgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T03:27:44.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Class5.cs",
-              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Class5.cs",
+              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Class5.cs",
               "RelativeDocumentMoniker": "Class5.cs",
-              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Class5.cs",
+              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Class5.cs",
               "RelativeToolTip": "Class5.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,11 +107,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Patient.cs",
-              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Patient.cs",
+              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Patient.cs",
               "RelativeDocumentMoniker": "Patient.cs",
-              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Patient.cs",
+              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Patient.cs",
               "RelativeToolTip": "Patient.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAUwCEAAACXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -86,11 +120,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Class4.cs",
-              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Class4.cs",
+              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Class4.cs",
               "RelativeDocumentMoniker": "Class4.cs",
-              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Class4.cs",
+              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Class4.cs",
               "RelativeToolTip": "Class4.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,11 +133,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Company.cs",
-              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Company.cs",
+              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Company.cs",
               "RelativeDocumentMoniker": "Company.cs",
-              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Company.cs",
+              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Company.cs",
               "RelativeToolTip": "Company.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -112,11 +146,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Class3.cs",
-              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Class3.cs",
+              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Class3.cs",
               "RelativeDocumentMoniker": "Class3.cs",
-              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Class3.cs",
+              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Class3.cs",
               "RelativeToolTip": "Class3.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -125,11 +159,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Bank.cs",
-              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Bank.cs",
+              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Bank.cs",
               "RelativeDocumentMoniker": "Bank.cs",
-              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Bank.cs",
+              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Bank.cs",
               "RelativeToolTip": "Bank.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAACDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -138,24 +172,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Class2.cs",
-              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Class2.cs",
+              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Class2.cs",
               "RelativeDocumentMoniker": "Class2.cs",
-              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Class2.cs",
+              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Class2.cs",
               "RelativeToolTip": "Class2.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T04:25:51.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Student.cs",
               "RelativeDocumentMoniker": "Student.cs",
-              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Student.cs",
+              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Student.cs",
               "RelativeToolTip": "Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAB7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -164,37 +198,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Class1.cs",
-              "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Class1.cs",
-              "RelativeToolTip": "Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T04:14:32.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T04:06:04.129Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "HomeWork",
-              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\HomeWork\\HomeWork.csproj",
+              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\HomeWork.csproj",
               "RelativeDocumentMoniker": "HomeWork.csproj",
-              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\New folder\\DOTNET5TO6PM\\Prasanna\\HomeWork\\HomeWork.csproj",
+              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\HomeWork.csproj",
               "RelativeToolTip": "HomeWork.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-10-15T04:08:23.115Z",
@@ -203,6 +211,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T04:14:32.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\korra\\OneDrive\\Desktop\\Dot Net\\DOTNET5TO6PM\\Prasanna\\HomeWork\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T04:06:04.129Z",
+              "EditorCaption": ""
             }
           ]
         }
