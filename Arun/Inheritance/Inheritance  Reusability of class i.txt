@@ -1,0 +1,21 @@
+Inheritance : Reusability of class is called Inheritance
+
+1.Single Inheritance:
+		Deriving a single child class from
+		single base class.
+2.Multi-level Inheritance
+	Deriving a child class for a Derived Class.
+	In order to stop multilevel inheritance we use
+	sealed keyword. This keyword will seal the class
+	to stop next level inheritance.
+	
+3.Multiple Inheritance
+		Deriving a single child class from two or  more base classes.
+	
+4.Hierachical Inheritance
+				Deriving two or more child classes from a single base
+				class.
+5.Hybrid Inheritance
+				It is the combination of two inheritances.
+
+				Example : It is the combination multilevel and Multiple 				Inheritance
