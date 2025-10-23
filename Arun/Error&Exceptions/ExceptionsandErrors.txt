@@ -1,0 +1,44 @@
+			:Error:
+
+Errors are the mistakes in the program, mistakes will not allow the
+application to execute or It may terminate the application abnormally
+
+Errors are of two types
+1.Compilation Errors : These errors can occur due missing syntaxes.
+	Syntax errors are the examples of  compilation Errors.
+	; }
+	Solution :By provide proper syntaxes in the application
+
+2.Runtime error  : These Errors can occur during execution, hence
+these are called Runtime Error or Exceptions, these error or exceptions can cause abnormal termination of the application.
+
+Exceptions are predefined classes which are inherited from Exception class
+		Solution : In order to avoid abnormal termination 		of the application we use Exception Handling.
+
+	Exception : The exceptions which are raised in the application need to be handled by using 
+	1.try 
+	2.catch 
+	3.throw 
+	4.finally
+
+	try is a block  in which we write our code where we expect 
+	an exception.
+	try block alone can't handle the exceptions, Just it will 
+	exception objects which are raised in the try block 	internally.
+	try block must be followed with catch or finally block 	other	wise 	we get compilation Error.
+
+	common catch block:
+	Catch is a block which can catch all the exception objects which 	are raised in the try block.
+
+	Individual catch block is block which can catch particular exception.
+	We provide proper messages to the end user.
+
+
+
+
+	catch blocks are of two types :
+		common catch block : A catch block in which we Exception class
+		can become a common catch block, such that it can handle all
+		the exceptions.
+	
+
