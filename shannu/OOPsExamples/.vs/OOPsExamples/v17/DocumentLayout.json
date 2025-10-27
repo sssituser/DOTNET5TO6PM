@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\OOPsExamples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62C5B1B1-204E-4DC6-8E30-4237F933B2B2}|OOPsExamples.csproj|d:\\shannu\\.net\\dotnet5to6pm\\dotnet5to6pm\\shannu\\oopsexamples\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C5B1B1-204E-4DC6-8E30-4237F933B2B2}|OOPsExamples.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C5B1B1-204E-4DC6-8E30-4237F933B2B2}|OOPsExamples.csproj|d:\\shannu\\.net\\dotnet5to6pm\\dotnet5to6pm\\shannu\\oopsexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C5B1B1-204E-4DC6-8E30-4237F933B2B2}|OOPsExamples.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\OOPsExamples\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\OOPsExamples\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T06:33:26.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\OOPsExamples\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\OOPsExamples\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T06:32:59.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\OOPsExamples\bin\Debug\OOPsExamples.exe.config
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\OOPsExamples\bin\Debug\OOPsExamples.exe
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\OOPsExamples\bin\Debug\OOPsExamples.pdb
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\OOPsExamples\obj\Debug\OOPsExamples.csproj.AssemblyReference.cache
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\OOPsExamples\obj\Debug\OOPsExamples.csproj.CoreCompileInputs.cache
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\OOPsExamples\obj\Debug\OOPsExamples.exe
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\OOPsExamples\obj\Debug\OOPsExamples.pdb
