@@ -3,30 +3,13 @@
   "WorkspaceRootPath": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ExceptionsExamples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC329584-69A1-49E2-A0BF-67CE02350DD2}|ExceptionsExamples.csproj|d:\\shannu\\.net\\dotnet5to6pm\\dotnet5to6pm\\shannu\\exceptionsexamples\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC329584-69A1-49E2-A0BF-67CE02350DD2}|ExceptionsExamples.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3E08CF2-14DC-466A-A8B6-942BCCB346D5}|..\\Programs\\Programs.csproj|d:\\shannu\\.net\\dotnet5to6pm\\dotnet5to6pm\\shannu\\programs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC329584-69A1-49E2-A0BF-67CE02350DD2}|ExceptionsExamples.csproj|d:\\shannu\\.net\\dotnet5to6pm\\dotnet5to6pm\\shannu\\exceptionsexamples\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC329584-69A1-49E2-A0BF-67CE02350DD2}|ExceptionsExamples.csproj|solutionrelative:department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3E08CF2-14DC-466A-A8B6-942BCCB346D5}|..\\Programs\\Programs.csproj|d:\\shannu\\.net\\dotnet5to6pm\\dotnet5to6pm\\shannu\\programs\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ExceptionsExamples||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC329584-69A1-49E2-A0BF-67CE02350DD2}|ExceptionsExamples.csproj|d:\\shannu\\.net\\dotnet5to6pm\\dotnet5to6pm\\shannu\\exceptionsexamples\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC329584-69A1-49E2-A0BF-67CE02350DD2}|ExceptionsExamples.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC329584-69A1-49E2-A0BF-67CE02350DD2}|ExceptionsExamples.csproj|d:\\shannu\\.net\\dotnet5to6pm\\dotnet5to6pm\\shannu\\exceptionsexamples\\invalidageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC329584-69A1-49E2-A0BF-67CE02350DD2}|ExceptionsExamples.csproj|solutionrelative:invalidageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC329584-69A1-49E2-A0BF-67CE02350DD2}|ExceptionsExamples.csproj|d:\\shannu\\.net\\dotnet5to6pm\\dotnet5to6pm\\shannu\\exceptionsexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC329584-69A1-49E2-A0BF-67CE02350DD2}|ExceptionsExamples.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC329584-69A1-49E2-A0BF-67CE02350DD2}|ExceptionsExamples.csproj|d:\\shannu\\.net\\dotnet5to6pm\\dotnet5to6pm\\shannu\\exceptionsexamples\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{C3E08CF2-14DC-466A-A8B6-942BCCB346D5}|..\\Programs\\Programs.csproj|d:\\shannu\\.net\\dotnet5to6pm\\dotnet5to6pm\\shannu\\programs\\dept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,79 +23,41 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Department.cs",
-              "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ExceptionsExamples\\Department.cs",
-              "RelativeDocumentMoniker": "Department.cs",
-              "ToolTip": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ExceptionsExamples\\Department.cs",
-              "RelativeToolTip": "Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Dept.cs",
+              "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\Programs\\Dept.cs",
+              "RelativeDocumentMoniker": "..\\Programs\\Dept.cs",
+              "ToolTip": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\Programs\\Dept.cs",
+              "RelativeToolTip": "..\\Programs\\Dept.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T08:48:06.083Z",
+              "WhenOpened": "2025-10-31T06:42:54.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ExceptionsExamples",
-              "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ExceptionsExamples\\ExceptionsExamples.csproj",
-              "RelativeDocumentMoniker": "ExceptionsExamples.csproj",
-              "ToolTip": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ExceptionsExamples\\ExceptionsExamples.csproj",
-              "RelativeToolTip": "ExceptionsExamples.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-28T08:41:18.365Z",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\Programs\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\Programs\\Employee.cs",
+              "ToolTip": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\Programs\\Employee.cs",
+              "RelativeToolTip": "..\\Programs\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T06:42:41.51Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ExceptionsExamples\\Employee.cs",
-              "RelativeDocumentMoniker": "Employee.cs",
-              "ToolTip": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ExceptionsExamples\\Employee.cs",
-              "RelativeToolTip": "Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T08:02:14.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ExceptionsExamples\\Class1.cs",
-              "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ExceptionsExamples\\Class1.cs",
-              "RelativeToolTip": "Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T07:53:03.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "InvalidAgeException.cs",
-              "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ExceptionsExamples\\InvalidAgeException.cs",
-              "RelativeDocumentMoniker": "InvalidAgeException.cs",
-              "ToolTip": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ExceptionsExamples\\InvalidAgeException.cs",
-              "RelativeToolTip": "InvalidAgeException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T07:51:23.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ExceptionsExamples\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ExceptionsExamples\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAADwvzMAAAANAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\Programs\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Programs\\Program.cs",
+              "ToolTip": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\Programs\\Program.cs",
+              "RelativeToolTip": "..\\Programs\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T07:22:04.402Z",
+              "WhenOpened": "2025-10-31T06:42:20.921Z",
               "EditorCaption": ""
             }
           ]

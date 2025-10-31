@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ExceptionsExamples
 {
-    internal class Department
+    internal class Department :Client
     {
        protected int DeptId;
         protected string DeptName;
@@ -15,7 +15,7 @@ namespace ExceptionsExamples
 
 
         public Department() { }
-        public Department(int deptId, string deptName, string deptLocation, string deptHead)
+        public Department(int deptId, string deptName, string deptLocation, string deptHead,int ClientId, string ClientName) : base(ClientId, ClientName)
         {
             DeptId = deptId;
             DeptName = deptName;

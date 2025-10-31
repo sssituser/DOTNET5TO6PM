@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FC329584-69A1-49E2-A0BF-67CE02350DD2}</ProjectGuid>
+    <ProjectGuid>{C3E08CF2-14DC-466A-A8B6-942BCCB346D5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ExceptionsExamples</RootNamespace>
-    <AssemblyName>ExceptionsExamples</AssemblyName>
+    <RootNamespace>Programs</RootNamespace>
+    <AssemblyName>Programs</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,9 +32,6 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject>ExceptionsExamples.Employee</StartupObject>
-  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -46,11 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
-    <Compile Include="Client.cs" />
-    <Compile Include="Department.cs" />
+    <Compile Include="Dept.cs" />
     <Compile Include="Employee.cs" />
-    <Compile Include="InvalidAgeException.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
