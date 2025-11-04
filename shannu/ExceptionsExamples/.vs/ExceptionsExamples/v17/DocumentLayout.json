@@ -3,10 +3,13 @@
   "WorkspaceRootPath": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ExceptionsExamples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3E08CF2-14DC-466A-A8B6-942BCCB346D5}|..\\Programs\\Programs.csproj|d:\\shannu\\.net\\dotnet5to6pm\\dotnet5to6pm\\shannu\\programs\\collection3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3E08CF2-14DC-466A-A8B6-942BCCB346D5}|..\\Programs\\Programs.csproj|d:\\shannu\\.net\\dotnet5to6pm\\dotnet5to6pm\\shannu\\programs\\collections4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Programs||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E08CF2-14DC-466A-A8B6-942BCCB346D5}|..\\Programs\\Programs.csproj|d:\\shannu\\.net\\dotnet5to6pm\\dotnet5to6pm\\shannu\\programs\\collection3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3E08CF2-14DC-466A-A8B6-942BCCB346D5}|..\\Programs\\Programs.csproj|d:\\shannu\\.net\\dotnet5to6pm\\dotnet5to6pm\\shannu\\programs\\collection2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -30,19 +33,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Collections4.cs",
+              "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\Programs\\Collections4.cs",
+              "RelativeDocumentMoniker": "..\\Programs\\Collections4.cs",
+              "ToolTip": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\Programs\\Collections4.cs",
+              "RelativeToolTip": "..\\Programs\\Collections4.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAQwFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:24:35.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Collection3.cs",
               "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\Programs\\Collection3.cs",
               "RelativeDocumentMoniker": "..\\Programs\\Collection3.cs",
               "ToolTip": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\Programs\\Collection3.cs",
               "RelativeToolTip": "..\\Programs\\Collection3.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwB4AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T11:32:18.174Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Collection2.cs",
               "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\Programs\\Collection2.cs",
               "RelativeDocumentMoniker": "..\\Programs\\Collection2.cs",
@@ -50,12 +66,11 @@
               "RelativeToolTip": "..\\Programs\\Collection2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAUwBIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T11:29:54.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T11:29:54.437Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Collection1.cs",
               "DocumentMoniker": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\Programs\\Collection1.cs",
               "RelativeDocumentMoniker": "..\\Programs\\Collection1.cs",
@@ -63,8 +78,7 @@
               "RelativeToolTip": "..\\Programs\\Collection1.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T10:06:46.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T10:06:46.42Z"
             },
             {
               "$type": "Document",

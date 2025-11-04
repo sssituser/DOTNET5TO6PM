@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Programs.Collection3</StartupObject>
+    <StartupObject>Programs.Collections4</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,6 +49,7 @@
     <Compile Include="Collection1.cs" />
     <Compile Include="Collection2.cs" />
     <Compile Include="Collection3.cs" />
+    <Compile Include="Collections4.cs" />
     <Compile Include="Dept.cs" />
     <Compile Include="Employee.cs" />
     <Compile Include="FileName.cs" />
