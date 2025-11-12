@@ -148,6 +148,7 @@
             this.btnAllClear.TabIndex = 4;
             this.btnAllClear.Text = "AC";
             this.btnAllClear.UseVisualStyleBackColor = true;
+            this.btnAllClear.Click += new System.EventHandler(this.btnAllClear_Click);
             // 
             // btn6
             // 
@@ -256,6 +257,7 @@
             this.btnDot.TabIndex = 14;
             this.btnDot.Text = ".";
             this.btnDot.UseVisualStyleBackColor = true;
+            this.btnDot.Click += new System.EventHandler(this.btnDot_Click);
             // 
             // btnModDiv
             // 
@@ -274,6 +276,7 @@
             this.txtDisplay.Name = "txtDisplay";
             this.txtDisplay.Size = new System.Drawing.Size(554, 158);
             this.txtDisplay.TabIndex = 16;
+           // this.txtDisplay.TextChanged += new System.EventHandler(this.txtDisplay_TextChanged);
             // 
             // Form2
             // 
