@@ -1,0 +1,59 @@
+In order to work with DML commands need learn
+
+1.Operators :
+	Arithmetic operations +,-*,/,
+	Relational operators >,<,>=,<= = !=  <>
+	Logical Operators and or not In not In Like distinct
+	
+2.Clauses
+	set,where,having,order and order by desc, having, group by
+
+update, delete, select
+
+
+syx :
+	update tablename set colname1=val1, colname=val2...
+	... where colname=value
+
+	updating particular column
+
+	update employee set ename='kirankumar',esal=40000 where eid = 113
+
+	update employee set esal = esal+15000 
+
+syx:
+	delete from <tableName> where col=value;
+	delete from employee where eid = 114
+	delete from employee
+
+
+
+syx: In order to retrieve the records from table we use select command.
+
+	1.Select * from tablename;  * Indicates all fieldnames.
+
+	2.select colname from table-name
+			
+select eid from employee	
+
+select ename,eid from employee where esal<50000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
