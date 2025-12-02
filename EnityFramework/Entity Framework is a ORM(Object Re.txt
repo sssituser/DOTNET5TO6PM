@@ -1,0 +1,106 @@
+Entity Framework is a ORM(Object Relational Mapping)
+
+convert Database object classes and methods
+
+Employee class can be converted into a table
+A table can be converted into  a class
+
+1.DataBase First Approach:
+	Entity frame work on Data base, table can be converted into class.
+	In DataBase First Approach Database is the priority.
+	Database and Tables can be converted into classes and methods.
+2.Code First Approach
+
+
+In this approach we create classes and methods , these will
+be converted into  Database and tables.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleAppWithAdo
+{
+    internal class BusinessLoigic
+    {
+        
+        sssdbEntities2 db = new sssdbEntities2();
+        tbl_employee emp=new tbl_employee();
+        public bool Savemployee(tbl_employee emp)
+        {
+            db.tbl_employee.Add(emp);
+          return   db.SaveChanges()==1;
+        }
+
+        public tbl_employee FindEmployee(int empId)
+        {
+            tbl_employee employee = db.tbl_employee.Find(empId);
+            return employee;
+        }
+        public bool DeleteEmpoloyee(int empId)
+        {
+            tbl_employee employee = db.tbl_employee.Find(empId);
+            db.tbl_employee.Remove(employee);
+            return db.SaveChanges()==1;
+        }
+        public bool UPdateEmployee(tbl_employee newEmployee)
+        {
+            tbl_employee emp1 = db.tbl_employee.Find(newEmployee.eid);
+            emp1.ename=newEmployee.ename;
+            emp1.esal = newEmployee.esal;
+            return db.SaveChanges()==1;
+        }
+        public List<tbl_employee> GetEmployeeList()
+        {
+            return db.tbl_employee.ToList();
+        }
+
+    }
+}
+===================================
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleAppWithAdo
+{
+    internal class BusinessLoigic
+    {
+        
+        sssdbEntities2 db = new sssdbEntities2();
+        tbl_employee emp=new tbl_employee();
+        public bool Savemployee(tbl_employee emp)
+        {
+            db.tbl_employee.Add(emp);
+          return   db.SaveChanges()==1;
+        }
+
+        public tbl_employee FindEmployee(int empId)
+        {
+            tbl_employee employee = db.tbl_employee.Find(empId);
+            return employee;
+        }
+        public bool DeleteEmpoloyee(int empId)
+        {
+            tbl_employee employee = db.tbl_employee.Find(empId);
+            db.tbl_employee.Remove(employee);
+            return db.SaveChanges()==1;
+        }
+        public bool UPdateEmployee(tbl_employee newEmployee)
+        {
+            tbl_employee emp1 = db.tbl_employee.Find(newEmployee.eid);
+            emp1.ename=newEmployee.ename;
+            emp1.esal = newEmployee.esal;
+            return db.SaveChanges()==1;
+        }
+        public List<tbl_employee> GetEmployeeList()
+        {
+            return db.tbl_employee.ToList();
+        }
+
+    }
+}
