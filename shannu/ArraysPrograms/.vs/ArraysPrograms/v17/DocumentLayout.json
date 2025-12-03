@@ -18,7 +18,7 @@
       "RelativeMoniker": "D:0:0:{DB6D0D4F-4A1A-43DB-AAFD-E34697FDCBFC}|ArraysPrograms.csproj|solutionrelative:program5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB6D0D4F-4A1A-43DB-AAFD-E34697FDCBFC}|ArraysPrograms.csproj|d:\\shannu\\.net\\dotnet5to6pm\\dotnet5to6pm\\shannu\\arraysprograms\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB6D0D4F-4A1A-43DB-AAFD-E34697FDCBFC}|ArraysPrograms.csproj|D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ArraysPrograms\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB6D0D4F-4A1A-43DB-AAFD-E34697FDCBFC}|ArraysPrograms.csproj|solutionrelative:program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -32,9 +32,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DB6D0D4F-4A1A-43DB-AAFD-E34697FDCBFC}|ArraysPrograms.csproj|D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ArraysPrograms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB6D0D4F-4A1A-43DB-AAFD-E34697FDCBFC}|ArraysPrograms.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB6D0D4F-4A1A-43DB-AAFD-E34697FDCBFC}|ArraysPrograms.csproj|d:\\shannu\\.net\\dotnet5to6pm\\dotnet5to6pm\\shannu\\arraysprograms\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -69,8 +66,7 @@
               "RelativeToolTip": "Program6.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T14:51:05.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T14:51:05.683Z"
             },
             {
               "$type": "Document",
@@ -82,8 +78,7 @@
               "RelativeToolTip": "Program5.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAYwC4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T14:19:51.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T14:19:51.511Z"
             },
             {
               "$type": "Document",
@@ -118,8 +113,7 @@
               "ToolTip": "D:\\shannu\\.NET\\DOTNET5TO6PM\\DOTNET5TO6PM\\shannu\\ArraysPrograms\\ArraysPrograms.csproj",
               "RelativeToolTip": "ArraysPrograms.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-24T21:39:25.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T21:39:25.583Z"
             },
             {
               "$type": "Document",
@@ -131,8 +125,7 @@
               "RelativeToolTip": "Program2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T21:31:16.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T21:31:16.169Z"
             },
             {
               "$type": "Document",

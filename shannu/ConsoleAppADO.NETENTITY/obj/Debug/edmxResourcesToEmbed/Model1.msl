@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="sssdbModelStoreContainer" CdmEntityContainer="sssdbEntities">
+    <EntitySetMapping Name="tbl_empl">
+      <EntityTypeMapping TypeName="sssdbModel.tbl_empl">
+        <MappingFragment StoreEntitySet="tbl_empl">
+          <ScalarProperty Name="eid" ColumnName="eid" />
+          <ScalarProperty Name="ename" ColumnName="ename" />
+          <ScalarProperty Name="esal" ColumnName="esal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

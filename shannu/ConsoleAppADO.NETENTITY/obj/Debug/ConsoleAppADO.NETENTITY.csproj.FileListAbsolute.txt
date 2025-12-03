@@ -1,0 +1,10 @@
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConsoleAppADO.NETENTITY\bin\Debug\ConsoleAppADO.NETENTITY.exe.config
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConsoleAppADO.NETENTITY\bin\Debug\ConsoleAppADO.NETENTITY.exe
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConsoleAppADO.NETENTITY\bin\Debug\ConsoleAppADO.NETENTITY.pdb
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConsoleAppADO.NETENTITY\bin\Debug\EntityFramework.dll
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConsoleAppADO.NETENTITY\bin\Debug\EntityFramework.xml
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConsoleAppADO.NETENTITY\obj\Debug\ConsoleAppADO.NETENTITY.csproj.AssemblyReference.cache
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConsoleAppADO.NETENTITY\obj\Debug\ConsoleAppADO.NETENTITY.csproj.CoreCompileInputs.cache
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConsoleAppADO.NETENTITY\obj\Debug\ConsoleA.DBE582E0.Up2Date
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConsoleAppADO.NETENTITY\obj\Debug\ConsoleAppADO.NETENTITY.exe
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConsoleAppADO.NETENTITY\obj\Debug\ConsoleAppADO.NETENTITY.pdb

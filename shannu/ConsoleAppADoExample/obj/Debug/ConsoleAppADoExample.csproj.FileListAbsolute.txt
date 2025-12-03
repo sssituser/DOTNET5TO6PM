@@ -1,0 +1,7 @@
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConsoleAppADoExample\bin\Debug\ConsoleAppADoExample.exe.config
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConsoleAppADoExample\bin\Debug\ConsoleAppADoExample.exe
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConsoleAppADoExample\bin\Debug\ConsoleAppADoExample.pdb
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConsoleAppADoExample\obj\Debug\ConsoleAppADoExample.csproj.AssemblyReference.cache
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConsoleAppADoExample\obj\Debug\ConsoleAppADoExample.csproj.CoreCompileInputs.cache
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConsoleAppADoExample\obj\Debug\ConsoleAppADoExample.exe
+D:\shannu\.NET\DOTNET5TO6PM\DOTNET5TO6PM\shannu\ConsoleAppADoExample\obj\Debug\ConsoleAppADoExample.pdb

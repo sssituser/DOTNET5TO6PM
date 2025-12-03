@@ -28,6 +28,11 @@ Problem: Convert "hello world from csharp" to "Hello World From Csharp" using Sp
                     Output += wordFirstLetter + wordRest + " ";
                 }
                 Console.WriteLine(Output);
+
+                int a = 122;
+                int a = 123;
+                int a = 124;
+                Console.WriteLine(a);
             }
         }
     }
